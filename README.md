@@ -6,4 +6,4 @@
 
 
 # Tiberian Sun World
-Fan made missions for Command &amp; Conquer: Tiberian Sun
+... is a fan made map package for Command &amp; Conquer: Tiberian Sun
